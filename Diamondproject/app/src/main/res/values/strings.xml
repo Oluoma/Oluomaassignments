@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Diamondproject</string>
+    <string name="country">switch country</string>
+    <string name="sign">sign in</string>
+    <string name="reg">Register</string>
+    <string name="forgot">Forgot Login Details</string>
+    <string name="notify">Notifications</string>
+    <string name="device">Changed Device?</string>
+    <string name="contact">Contact Us</string>
+    <string name="fa">FAQ</string>
+</resources>
